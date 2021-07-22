@@ -1,7 +1,7 @@
 # factoryFunction
 Created with CodeSandbox
 
-Skills practiced: actory function, object literals, add objects, array, for...of loop, for...in loop, add objects, empty array, for...of loop, if statement, push(), innerHTML, createElement, append()
+Skills practiced: factory function, object literals, add objects, array, for...of loop, for...in loop, add objects, empty array, for...of loop, if statement, push(), innerHTML, createElement, append()
 
 I used a factory function to create a vehicle object. I added three objects and then looped over the objects! 
 
